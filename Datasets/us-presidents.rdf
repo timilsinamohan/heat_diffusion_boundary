@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:_3="http://dbpedia.org/ontology/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jimmy_Carter">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Walter_Mondale"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Buchanan">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/John_C._Breckinridge"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Elbridge_Gerry">
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_Madison"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dan_Quayle">
+    <_3:president rdf:resource="http://dbpedia.org/resource/George_H._W._Bush"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_Curtis">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Herbert_Hoover"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Woodrow_Wilson">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Thomas_R._Marshall"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Quincy_Adams">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/John_C._Calhoun"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Whig_Party_%28United_States%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Federalist_Party_%28United_States%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/National_Republican_Party"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Anti-Masonic_Party"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_R._King">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Franklin_Pierce"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Howard_Taft">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/James_S._Sherman"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Harry_S._Truman">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Franklin_D._Roosevelt"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Alben_Barkley"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_C._Calhoun">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Andrew_Jackson"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_Monroe"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/John_Tyler"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/John_Quincy_Adams"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Tyler">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Andrew_Jackson"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/William_Henry_Harrison"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Whig_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dick_Cheney">
+    <_3:president rdf:resource="http://dbpedia.org/resource/George_H._W._Bush"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Gerald_Ford"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/George_W._Bush"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ronald_Reagan">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/George_H._W._Bush"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Nance_Garner">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Franklin_D._Roosevelt"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Herbert_Hoover"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Chester_A._Arthur">
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_A._Garfield"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Nelson_Rockefeller">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Gerald_Ford"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Benjamin_Harrison">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Levi_P._Morton"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franklin_D._Roosevelt">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/John_Nance_Garner"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Henry_A._Wallace"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Harry_S._Truman"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_A._Hendricks">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Grover_Cleveland"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_Adams">
+    <_3:president rdf:resource="http://dbpedia.org/resource/George_Washington"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Thomas_Jefferson"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/United_States_Federalist_Party"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Mentor_Johnson">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Martin_Van_Buren"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hubert_Humphrey">
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_Eastland"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Lyndon_B._Johnson"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Minnesota_Democratic-Farmer-Labor_Party"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hannibal_Hamlin">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Abraham_Lincoln"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_McKinley">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Garret_A._Hobart"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Theodore_Roosevelt"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_C._Breckinridge">
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_Buchanan"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Jefferson_Davis"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rutherford_B._Hayes">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/William_A._Wheeler"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Spiro_Agnew">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Richard_Nixon"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Walter_Mondale">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Jimmy_Carter"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Johnson">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Abraham_Lincoln"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Independent_%28politician%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/History_of_the_Democratic_Party_%28United_States%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/National_Union_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Madison">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Elbridge_Gerry"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/George_Clinton_%28vice_president%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Bill_Clinton">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Al_Gore"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Richard_Nixon">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Dwight_D._Eisenhower"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Gerald_Ford"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Spiro_Agnew"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Garret_Hobart">
+    <_3:president rdf:resource="http://dbpedia.org/resource/William_McKinley"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Adlai_E._Stevenson_I">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Grover_Cleveland"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gerald_Ford">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Richard_Nixon"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Nelson_Rockefeller"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_M._Dallas">
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_Buchanan"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Abraham_Lincoln"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Martin_Van_Buren"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_Knox_Polk"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Franklin_Pierce"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Ulysses_S._Grant">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Schuyler_Colfax"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_W._Fairbanks">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Theodore_Roosevelt"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_Wilson">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Ulysses_S._Grant"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Al_Gore">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Bill_Clinton"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_Monroe">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Daniel_D._Tompkins"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Levi_P._Morton">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Benjamin_Harrison"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Chester_A._Arthur"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_A._Garfield"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_K._Polk">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/George_M._Dallas"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Dwight_D._Eisenhower">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Richard_Nixon"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Henry_A._Wallace">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Franklin_D._Roosevelt"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Harry_S._Truman"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Progressive_Party_%28United_States%2C_1948%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Calvin_Coolidge">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Warren_G._Harding"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Charles_G._Dawes"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_R._Marshall">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Woodrow_Wilson"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Abraham_Lincoln">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Andrew_Johnson"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Hannibal_Hamlin"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Whig_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_A._Wheeler">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Rutherford_B._Hayes"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Theodore_Roosevelt">
+    <_3:president rdf:resource="http://dbpedia.org/resource/William_McKinley"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Charles_W._Fairbanks"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Progressive_Party_%28United_States%2C_1912%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Martin_Van_Buren">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Richard_Mentor_Johnson"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Warren_G._Harding">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Calvin_Coolidge"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Andrew_Jackson">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/John_C._Calhoun"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Martin_Van_Buren"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_H._W._Bush">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Ronald_Reagan"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Gerald_Ford"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Richard_Nixon"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Dan_Quayle"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Herbert_Hoover">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Charles_Curtis"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Thomas_Jefferson">
+    <_3:president rdf:resource="http://dbpedia.org/resource/George_Washington"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Aaron_Burr"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/George_Clinton_%28vice_president%29"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_S._Sherman">
+    <_3:president rdf:resource="http://dbpedia.org/resource/William_Howard_Taft"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/William_Henry_Harrison">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/John_Tyler"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Whig_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Grover_Cleveland">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Adlai_E._Stevenson_I"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Thomas_A._Hendricks"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alben_W._Barkley">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Harry_S._Truman"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Lyndon_B._Johnson">
+    <_3:president rdf:resource="http://dbpedia.org/resource/John_F._Kennedy"/>
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Hubert_Humphrey"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Charles_G._Dawes">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Calvin_Coolidge"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/William_McKinley"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Warren_G._Harding"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Schuyler_Colfax">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Andrew_Johnson"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Abraham_Lincoln"/>
+    <_3:president rdf:resource="http://dbpedia.org/resource/Ulysses_S._Grant"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/George_W._Bush">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Dick_Cheney"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Millard_Fillmore">
+    <_3:president rdf:resource="http://dbpedia.org/resource/Zachary_Taylor"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Anti-Masonic_Party"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Franklin_Pierce">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/William_R._King"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/John_F._Kennedy">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Lyndon_B._Johnson"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Daniel_D._Tompkins">
+    <_3:president rdf:resource="http://dbpedia.org/resource/James_Monroe"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Democratic-Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/James_A._Garfield">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Chester_A._Arthur"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Republican_Party_%28United_States%29"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Zachary_Taylor">
+    <_3:vicePresident rdf:resource="http://dbpedia.org/resource/Millard_Fillmore"/>
+    <_3:party rdf:resource="http://dbpedia.org/resource/Whig_Party_%28United_States%29"/>
+  </rdf:Description>
+</rdf:RDF>

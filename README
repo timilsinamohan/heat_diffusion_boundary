@@ -1,0 +1,58 @@
+In the Code folder:
+There are 6 python files.
+The code uses library provided with the file name: gbssl.py
+Dependencies: scikit, rdflib, networkX, numpy
+
+For Us Presidents to reproduce AUPR score presented in the paper:
+	1. Run: party_membership.py file.
+	2. By default the code runs with the boundary condition.
+	3. The data used for this experiments is in Dataset Folder and the name is us-presidents.rdf
+	4. To run other algorithms for example harmonic 
+	disable line containing #P = get_boundary_score(train_nodes,labs,Tc,orig_ids)
+	and enable P = get_harmonic_score(train_nodes,labs)
+	
+
+
+For NG-Leskovec to reproduce AUPR score presented in the paper:
+	1. Run: leskovec_ng_collab.py
+	2. By default the code runs with the boundary condition.
+	3. The data used for this experiments is in Dataset Folder and the names are (i) LN_1995_1999.mat 
+	(ii) LN_2000_2004.mat (iii) LN_2005_2009.mat (iv)LN_2010_2014.mat (v) LN_true.mat
+	4. To run other algorithms for example harmonic 
+	disable line containing #score = get_boundary_score(train_nodes,labs,Tc,orig_ids)
+	and enable score = get_harmonic_score(train_nodes,labs)
+
+
+
+
+For Political Blog classification to reproduce AUPR score presented in the paper:
+	1. Run: political_blog_classification.py
+	2. By default the code runs with the boundary condition.
+	3. The data used for this experiments is in Dataset Folder and the name is polblogs.gml
+	4. To run other algorithms for example harmonic 
+	disable line containing #score = get_boundary_score(train_nodes,labs,Tc,orig_ids)
+	and enable score = get_harmonic_score(train_nodes,labs)
+
+
+
+For Mechanism of Action Prediction to reproduce AUPR score presented in the paper:
+	1. Run: mechansim_of_action_prediction_prediction.py
+	2. By default the code runs with the boundary condition.
+	3. The data used for this experiments is in Dataset Folder and the names are 
+	(i) coexp_scores.txt, (ii) cooccurence_scores.txt (iii) experimental_scores.txt 
+	(iv) drug_gene_assosciation_data.txt (v) textmining_scores.txt 
+
+	4. To run other algorithms for example harmonic 
+	disable line containing #P = get_boundary_score(train_nodes,labs,Tc,orig_ids)
+	and enable P = get_harmonic_score(train_nodes,labs)
+
+For CKM Physicial Innovation to reproduce AUPR score presented in the paper:
+	1. Run: ckm_physician_innovation
+	2. By default the code runs with the boundary condition.
+	3. The data used for this experiments is in Dataset Folder and the names are 
+	(i) CKM-Physicians-Innovation_multiplex.edges (ii) CKM-Physicians-Innovation_nodes.txt 
+	4. To run other algorithms for example harmonic 
+	disable line containing #score = get_boundary_score(train_nodes,labs,Tc,orig_ids)
+	and enable score = get_harmonic_score(train_nodes,labs)
+ 
+
